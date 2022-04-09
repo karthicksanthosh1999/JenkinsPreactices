@@ -6,6 +6,7 @@ public class Pubg {
 				System.out.println("Am your friend GK");
 				System.out.println("Am your friend pubg");
 				System.out.println("Am your friend BGMI");
+				System.out.println("Hello GK");
 
 
 	}
